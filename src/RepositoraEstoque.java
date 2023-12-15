@@ -14,7 +14,7 @@ public class RepositoraEstoque extends Funcionario {
     public void baterPonto() { //Conferir retorno
         System.out.printf("A Repositora de Estoque %s bateu o ponto.%n", this.nome);
     }
-    public void repositarProduto(){
+    public void reporProduto(){
         System.out.printf("%s, você realizou uma reposição de um produto.%n", this.nome);
     }
 }

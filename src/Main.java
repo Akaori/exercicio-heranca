@@ -19,6 +19,6 @@ public class Main {
 
         igor.baterPonto();
         igor.calcularSalario();
-        ((RepositoraEstoque) igor).repositarProduto();
+        ((RepositoraEstoque) igor).reporProduto();
     }
 }
